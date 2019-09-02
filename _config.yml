@@ -8,6 +8,7 @@ subtitle:
 description:
 keywords:
 author: John Doe
+email: tomasz.a.lis@gmail.com
 language: en
 timezone:
 
@@ -79,5 +80,5 @@ theme: landscape
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com/TomekLis/TomekLis.github.io.git
+  repo: git@github.com:TomekLis/TomekLis.github.io.git
   branch: master
