@@ -64,7 +64,7 @@ pagination:
     next: "NEXT"
 
 post:
-    no_title : "no title"
+    no_title: "no title"
     categorized_in: "in"
     tagged_in: "TAGGED IN"
     toc: "Table of Contents"
@@ -81,6 +81,6 @@ post:
 
 author:
     # Your biography (Markdown and HTML supported)
-    bio: ""
+    bio: "learning and working <br/> .net, react and everything else"
     # Your job
     job: ""
