@@ -51,7 +51,7 @@
           return post.thumbnailImage;
         }
 
-        return urlFor(post.permalink + post.thumbnailImage);
+        return urlFor(post.thumbnailImage);
       }
 
       // Define third images (cover image and first photo) as thumbnail image

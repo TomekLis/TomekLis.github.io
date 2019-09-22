@@ -97,7 +97,6 @@ function jsonLd() {
       schema.keywords = config.keywords.join(', ');
     }
   }
-
   return '<script type="application/ld+json">' + JSON.stringify(schema) + '</script>';
 }
 
